@@ -44,7 +44,7 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 
 | Day | Date | Problem(s) | Topic | Status | Link |
 |-----|------|------------|-------|--------|------|
-| 1 | 04 Aug 2025 | Second Largest in Array | Arrays | ✅ | [Code](./Array/Day_01(second_largest).py) |
+| 1 | 04 Aug 2025 | Second Largest in Array | Arrays | ✅ | [Code](./Arrays/Day_01(second_largest).py) |
 | 2 | ... | ... | ... | 🔲 | ... |
 
 ---
