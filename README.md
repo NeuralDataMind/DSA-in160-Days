@@ -51,7 +51,7 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 
 ## 📌 Notes
 
-- Each day has its own folder like `Day01`, `Day02`, etc.
+- Each topic has its own folder like `Arrays`, `Strings`, etc.
 - Inside each folder:
   - `problem_name.py` – clean, commented code
   - `README.md` – explanation + approach + time & space complexity
