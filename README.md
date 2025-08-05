@@ -64,7 +64,7 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 
 - [GFG 160 Problems](https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters)
 - [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- [LeetCode](https://leetcode.com)
+- [LeetCode](https://leetcode.com/u/Mallikarjun_Sunny/)
 
 ---
 
