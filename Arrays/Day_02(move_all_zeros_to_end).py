@@ -24,4 +24,5 @@ if __name__ == "__main__":
         print(num, end=" ")
 
 # Time Complexity = O(n)
-# Space Complexty = O(1)
+# Space Complexity = O(1)
+
