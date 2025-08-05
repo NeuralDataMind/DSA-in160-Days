@@ -17,26 +17,26 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 
 ## 🗂️ Chapter-wise Progress
 
-| # | Chapter | Problems | Done | Folder |
+| # | Chapter | Problems | Done | Days |
 |---|---------|----------|------|--------|
-| 1 | Arrays | 36 | ✅/🔲 | [`Day01` to `Day13`](./) |
-| 2 | Strings | 15 | ✅/🔲 | [`DayXX`](./) |
-| 3 | Hashing | 7 | ✅/🔲 | [`DayXX`](./) |
-| 4 | Searching | 6 | ✅/🔲 | [`DayXX`](./) |
-| 5 | Sorting | 12 | ✅/🔲 | [`DayXX`](./) |
-| 6 | Matrix | 7 | ✅/🔲 | [`DayXX`](./) |
-| 7 | Recursion | 5 | ✅/🔲 | [`DayXX`](./) |
-| 8 | Bit Magic | 6 | ✅/🔲 | [`DayXX`](./) |
-| 9 | Stack | 7 | ✅/🔲 | [`DayXX`](./) |
-| 10 | Queue | 9 | ✅/🔲 | [`DayXX`](./) |
-| 11 | Linked List | 14 | ✅/🔲 | [`DayXX`](./) |
-| 12 | Tree | 18 | ✅/🔲 | [`DayXX`](./) |
-| 13 | BST | 5 | ✅/🔲 | [`DayXX`](./) |
-| 14 | Heap | 4 | ✅/🔲 | [`DayXX`](./) |
-| 15 | Graph | 13 | ✅/🔲 | [`DayXX`](./) |
-| 16 | Greedy | 7 | ✅/🔲 | [`DayXX`](./) |
-| 17 | Backtracking | 5 | ✅/🔲 | [`DayXX`](./) |
-| 18 | Dynamic Programming | 20 | ✅/🔲 | [`DayXX`](./) |
+| 1 | Arrays | 36 | ✅/🔲 | Day01 to Day13 |
+| 2 | Strings | 15 | ✅/🔲 | DayXX |
+| 3 | Hashing | 7 | ✅/🔲 | DayXX |
+| 4 | Searching | 6 | ✅/🔲 | DayXX |
+| 5 | Sorting | 12 | ✅/🔲 | DayXX |
+| 6 | Matrix | 7 | ✅/🔲 | DayXX |
+| 7 | Recursion | 5 | ✅/🔲 | DayXX |
+| 8 | Bit Magic | 6 | ✅/🔲 | DayXX |
+| 9 | Stack | 7 | ✅/🔲 | DayXX |
+| 10 | Queue | 9 | ✅/🔲 | DayXX |
+| 11 | Linked List | 14 | ✅/🔲 | DayXX |
+| 12 | Tree | 18 | ✅/🔲 | DayXX |
+| 13 | BST | 5 | ✅/🔲 | DayXX |
+| 14 | Heap | 4 | ✅/🔲 | DayXX |
+| 15 | Graph | 13 | ✅/🔲 | DayXX |
+| 16 | Greedy | 7 | ✅/🔲 | DayXX |
+| 17 | Backtracking | 5 | ✅/🔲 | DayXX |
+| 18 | Dynamic Programming | 20 | ✅/🔲 | DayXX |
 
 ---
 
