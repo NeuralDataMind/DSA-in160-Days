@@ -46,7 +46,8 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 |-----|------|------------|-------|--------|------|
 | 1 | 04 Aug 2025 | Second Largest in Array | Arrays | ✅ | [Code](./Arrays/Day_01(second_largest).py) |
 | 2 | 05 Aug 2025 | Move all zeroes to End | Arrays | ✅ | [Code](./Arrays/Day_02(move_all_zeros_to_end).py) |
-| 3 | ... | ... | ... | 🔲 | ... |
+| 3 | 06 Aug 2025 | Reverse an Array | Arrays | ✅ | [Code](./Arrays/Day_03(Reverse_an_Array).py) |
+| 4 | ... | ... | ... | 🔲 | ... |
 
 ---
 
