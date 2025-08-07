@@ -19,7 +19,7 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 
 | # | Chapter | Problems | Done | Days |
 |---|---------|----------|------|--------|
-| 1 | Arrays | 36 | ✅/🔲 | Day01 to Day13 |
+| 1 | Arrays | 13 | ✅/🔲 | Day01 to Day13 |
 | 2 | Strings | 15 | ✅/🔲 | DayXX |
 | 3 | Hashing | 7 | ✅/🔲 | DayXX |
 | 4 | Searching | 6 | ✅/🔲 | DayXX |
