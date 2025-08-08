@@ -48,7 +48,8 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 | 2 | 05 Aug 2025 | Move all zeroes to End | Arrays | ✅ | [Code](./Arrays/Day_02(move_all_zeros_to_end).py) |
 | 3 | 06 Aug 2025 | Reverse an Array | Arrays | ✅ | [Code](./Arrays/Day_03(Reverse_an_Array).py) |
 | 4 | 07 Aug 2025 | Rotate an Array | Arrays | ✅ | [Code](./Arrays/Day_04(Rotate_an_Array).py) |
-| 5 | ... | ... | ... | 🔲 | ... |
+| 5 | 08 Aug 2025 | Next Permutation | Arrays | ✅ | [Code](./Arrays/Day_05(next_permutation).py) |
+| 6 | ... | ... | ... | 🔲 | ... |
 
 ---
 
