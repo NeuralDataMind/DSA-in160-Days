@@ -49,7 +49,8 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 | 3 | 06 Aug 2025 | Reverse an Array | Arrays | ✅ | [Code](./Arrays/Day_03(Reverse_an_Array).py) |
 | 4 | 07 Aug 2025 | Rotate an Array | Arrays | ✅ | [Code](./Arrays/Day_04(Rotate_an_Array).py) |
 | 5 | 08 Aug 2025 | Next Permutation | Arrays | ✅ | [Code](./Arrays/Day_05(next_permutation).py) |
-| 6 | ... | ... | ... | 🔲 | ... |
+| 6 | 09 Aug 2025 | Majority Element II | Arrays | ✅ | [Code](./Arrays/Day_05(Majority_Element_II).py) |
+| 7 | ... | ... | ... | 🔲 | ... |
 
 ---
 
