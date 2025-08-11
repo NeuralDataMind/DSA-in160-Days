@@ -50,8 +50,9 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 | 4 | 07 Aug 2025 | Rotate an Array | Arrays | ✅ | [Code](./Arrays/Day_04(Rotate_an_Array).py) |
 | 5 | 08 Aug 2025 | Next Permutation | Arrays | ✅ | [Code](./Arrays/Day_05(next_permutation).py) |
 | 6 | 09 Aug 2025 | Majority Element II | Arrays | ✅ | [Code](./Arrays/Day_06(Majority_Element_II).py) |
-| 7 | 10 Aug 2025 | Stock Buy and Sell | Arrays | ✅ | [Code](./Arrays/Day_07(Stock_Buy_and_Sell).py) |
-| 8 | ... | ... | ... | 🔲 | ... |
+| 7 | 10 Aug 2025 | Stock Buy and Sell (With No Limit) | Arrays | ✅ | [Code](./Arrays/Day_07(Stock_Buy_and_Sell).py) |
+| 8 | 11 Aug 2025 | Stock Buy and Sell (With One Limit) | Arrays | ✅ | [Code](./Arrays/Day_08.py) |
+| 9 | ... | ... | ... | 🔲 | ... |
 
 ---
 
