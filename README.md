@@ -53,7 +53,8 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 | 7 | 10 Aug 2025 | Stock Buy and Sell (With No Limit) | Arrays | ✅ | [Code](./Arrays/Day_07(Stock_Buy_and_Sell).py) |
 | 8 | 11 Aug 2025 | Stock Buy and Sell (With One Limit) | Arrays | ✅ | [Code](./Arrays/Day_08.py) |
 | 9 | 12 Aug 2025 | Stock Buy and Sell (With One Limit) | Arrays | ✅ | [Code](./Arrays/Day_09.py) |
-| 10 | ... | ... | ... | 🔲 | ... |
+| 10 | 13 Aug 2025 | Max Subarray Sum | Arrays | ✅ | [Code](./Arrays/Day_10.py) |
+| 11 | ... | ... | ... | 🔲 | ... |
 
 ---
 
