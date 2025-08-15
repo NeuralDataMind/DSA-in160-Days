@@ -55,7 +55,8 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 | 9 | 12 Aug 2025 | Minimize the Heights | Arrays | ✅ | [Code](./Arrays/Day_09.py) |
 | 10 | 13 Aug 2025 | Max Subarray Sum | Arrays | ✅ | [Code](./Arrays/Day_10.py) |
 | 11 | 14 Aug 2025 | Max Product Subarray| Arrays | ✅ | [Code](./Arrays/Day_11.py) |
-| 12 | ... | ... | ... | 🔲 | ... |
+| 12 | 15 Aug 2025 | Maximum Sum Subarray in Circular| Arrays | ✅ | [Code](./Arrays/Day_12.py) |
+| 13 | ... | ... | ... | 🔲 | ... |
 
 ---
 
