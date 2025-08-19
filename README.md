@@ -56,7 +56,8 @@ This repository tracks my progress through the **GeeksforGeeks 160 DSA Problems*
 | 10 | 13 Aug 2025 | Max Subarray Sum | Arrays | ✅ | [Code](./Arrays/Day_10.py) |
 | 11 | 14 Aug 2025 | Max Product Subarray| Arrays | ✅ | [Code](./Arrays/Day_11.py) |
 | 12 | 15 Aug 2025 | Maximum Sum Subarray in Circular| Arrays | ✅ | [Code](./Arrays/Day_12.py) |
-| 13 | ... | ... | ... | 🔲 | ... |
+| 13 | 16 Aug 2025 | First Missing Positive| Arrays | ✅ | [Code](./Arrays/Day_13.py) |
+| 14 | ... | ... | ... | 🔲 | ... |
 
 ---
 
